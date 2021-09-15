@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c2b79a08-0327-4be6-8a63-46c2db3eb48c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53115/PlanetService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PlanetService.wsdl" MetadataType="Wsdl" ID="4ffbaba1-09f4-44f6-8166-20b3d57fd284" SourceId="1" SourceUrl="http://localhost:53115/PlanetService.svc?wsdl" />
+    <MetadataFile FileName="PlanetService.disco" MetadataType="Disco" ID="9644ea5f-173b-4b29-a5ae-17d69047464f" SourceId="1" SourceUrl="http://localhost:53115/PlanetService.svc?disco" />
+    <MetadataFile FileName="PlanetService.xsd" MetadataType="Schema" ID="7b3e53a4-e3a6-47e6-bc3f-f48504030600" SourceId="1" SourceUrl="http://localhost:53115/PlanetService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PlanetService1.xsd" MetadataType="Schema" ID="9bbc01e7-4429-4c47-85fb-a21fecbd6109" SourceId="1" SourceUrl="http://localhost:53115/PlanetService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PlanetService2.xsd" MetadataType="Schema" ID="0bdad207-35f1-4bda-84c0-723408b6f0be" SourceId="1" SourceUrl="http://localhost:53115/PlanetService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

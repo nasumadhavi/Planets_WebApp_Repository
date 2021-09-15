@@ -1,0 +1,4 @@
+C:\Users\madhavi\Documents\Visual Studio 2015\Projects\WebApplication5\UIBOCommonLayer\bin\Debug\UIBOCommonLayer.dll
+C:\Users\madhavi\Documents\Visual Studio 2015\Projects\WebApplication5\UIBOCommonLayer\bin\Debug\UIBOCommonLayer.pdb
+C:\Users\madhavi\Documents\Visual Studio 2015\Projects\WebApplication5\UIBOCommonLayer\obj\Debug\UIBOCommonLayer.dll
+C:\Users\madhavi\Documents\Visual Studio 2015\Projects\WebApplication5\UIBOCommonLayer\obj\Debug\UIBOCommonLayer.pdb
